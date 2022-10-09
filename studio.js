@@ -1,6 +1,6 @@
 // QUESTION 1. Assign string values based on your own information to the variables
 //firstName, lastName and homeCountry below.
-// mi segundo coments
+let secondName;
 const firstName = "juliette";
 const lastName = "martinez";
 const homeCountry = "colombia";
